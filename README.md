@@ -1,8 +1,7 @@
-<p><a target="_blank" href="https://app.eraser.io/workspace/MsoStjXZRR150HB8zbYx" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+# THE JavaScript Documentation
+Yeh documentation un developers ke liye hai jo JavaScript ka use karte hain. Humne isse Hinglish mein banaya hai taaki sabko samajhne mein aasani ho. Yahaan aapko basic se advanced topics tak sab kuch milega. Agar aapko code likhne ya samajhne mein dikkat ho rahi hai, toh yeh docs aapki madad karega. Happy coding!
 
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___SrkpevXpu5limntsGxTe4.png "image.png")
-
-
+![js image](/js-docs-img/head.png)
 
 # Topics:-
 ### Basics 
@@ -121,7 +120,7 @@ let name = prompt("Enter your name:");
 ```
 
 
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___mwdaEzsFh-ONqhj8etXw6.png "image.png")
+![window png](/js-docs-img/window%20img.png)
 
 # Data Types:-
 ## Primitive Data Types
@@ -204,7 +203,7 @@ function functionName (param){
 
 ---
 
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___vqI3rD-jtCLXKD2gpvhD3.png "image.png")
+![function png](/js-docs-img/function.png)
 
 ---
 
@@ -258,6 +257,7 @@ let a = val => {
 ##### Fat arrow function with an implicit return
 - implicit return that means jb ham ko sirf ek hi chiz return krna ho tho ham log `{}` ka use nahi v kr skte hai yasa nahi hai ki use kr nahi sakte hai kr skte hain aapka mn .
 - Return kya hota hai ye iske baad hai q ki bina function padhe return ko padhna posspossible nahi hai [﻿Return](https://app.eraser.io/workspace/MsoStjXZRR150HB8zbYx#1U89XJOohAK0vIAN8XgyS) 
+
 ```
 let a = () => 12+13
 ```
@@ -398,43 +398,43 @@ Dono approaches ke apne-apne advantages aur use-cases hain, aur JavaScript me as
 ### this ki conditions
 - global 
     - window
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___ikfQJu6jYiYawJhozyi0_.png "image.png")
+![](/js-docs-img/this-globle-img.png)
 
 
 
 - function
     - window
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___vJXp6j1BSVVvp8JziNByw.png "image.png")
+![image.png](/js-docs-img/this%20in%20function.png)
 
 
 
 - method
     - object
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___zi5iDVGKFUiNz0d7pQ3bj.png "image.png")
+![image.png](/js-docs-img/this%20in%20method.png)
 
 
 
 - function inside method (es5)
     - window
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___feeOltDcIgsixFKzgznD2.png "image.png")
+![image.png](/js-docs-img/this-inside-fun-method.png)
 
 
 
 - function inside method (es6)
     - object
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___2UuwGy8755GSckZO98NK2.png "image.png")
+![image.png](/js-docs-img/this-inside-fun-method-ES6.png)
 
 
 
 - constructor function me this ki value 
     - new blank object
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___lr414bu1sCxFJkCkv228P.png "image.png")
+![image.png](/js-docs-img/this%20in%20constructor%20fun.png)
 
 - event listener main this ki value
     - wo element jis pr event listener laga ho 
 
 
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___Xjl75q90ir6o021xHFtHK.png "image.png")
+![image.png](/js-docs-img/this%20in%20event%20listener.png)
 
 
 
@@ -488,7 +488,7 @@ newFunction();
 # prototype inheritance
 
 
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___-h2bxJwEp0aqQtKGtnpxt.png "image.png")
+![image.png](/js-docs-img/prototype%20inheritance.png)
 
 # Closures
 > yasa koi function jo kisi or function ko return krta ho usey closures lakin lakin wo use kre parent function ka koi variable
@@ -559,10 +559,6 @@ toh is function me ham divide kr rhe hai jime agar ham `﻿b` me 0 pass krte hai
 
 
 
-![image.png](/.eraser/MsoStjXZRR150HB8zbYx___C2lgX3XM8CaKzHCYaLpnjSddqwy2___jAZNDiKmln7M0nPzyjYvy.png "image.png")
+![image.png](/js-docs-img/try%20catch.png)
 
 
-
-
-
-<!--- Eraser file: https://app.eraser.io/workspace/MsoStjXZRR150HB8zbYx --->
