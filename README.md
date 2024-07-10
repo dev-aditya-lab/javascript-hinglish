@@ -14,7 +14,7 @@ Yeh documentation un developers ke liye hai jo JavaScript ka use karte hain. Hum
 - [x] Loops
 - [x] Function
 - [x] Return
-- [x] undefine, not define or null
+- [x] Undefined, Not defined or Null
 - [x] Arrays
 - [x] Loop with array
 - [x] Objects
@@ -129,8 +129,8 @@ let name = prompt("Enter your name:");
 - Flot `﻿12.05` 
 - Boolean `﻿true or false, 0 or 1` 
 - character `﻿a` 
-- null
-- undefine
+- Null
+- Undefined
 ## Reference Data Type
 - ()
 - []
@@ -270,7 +270,7 @@ let a = val => val+5
 # Return
 return yasa chiz hai ki agar aap return ke baad jo v likhte hain wo return ho jata hai mtlb ki code ke pass chla jata hai jo v aap return ke baar ya return ke andr likhe ho.
 
-ya yasa kha skte hai ki jaha pr function call huaa tha return wala code waha pe jayega us line pr jaha pe function call huaa tha.
+ya aisa kaha ja sakta hai ki jaha pr function call huaa tha return wala code waha pe jayega us line pr jaha pe function call huaa tha.
 
 or return function me lgta hai 
 
@@ -284,14 +284,14 @@ abcd();
 //output
    12
 ```
-# undefine, not define or null
-## Undefine
-- ye value tb jati hai variable ko koi value na mili ho tb ye value jati hai `undefile`
-- un define an error nahi value hai
+# Undefined, Not defined or Null
+## Undefined
+- Ye value tb jati hai variable ko koi value na mili ho tb ye value jati hai `undefined`
+- Undefined ek error nahi, ek value hai.
 ## Not define
-- not define an error hai
+- Not define ek error hai.
 ## NULL
-- null is also a value jb code kuch khojta hai or usko nahi mlta hai toh hme null receive hoga 
+- Null is a value jb code kuch khojta hai or usko nahi mlta hai toh hme null receive hota hai.
 # array
 - array mtbl jb v ek ya ek se jyda value ek sath rakhni ho toh ham array banate hai
 - or un sabhi values ko hame `﻿[]`  ke ander hi likhna pdega this is important 
