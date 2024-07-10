@@ -184,7 +184,7 @@ while(i<=50){
 }
 ```
 ### for each
-- for each ek normal loop nahi hai ye sirf arrays pr chalta hai  [﻿array](https://app.eraser.io/workspace/MsoStjXZRR150HB8zbYx#TCHorrOs0LWdli404GEUW)﻿
+- for each ek normal loop nahi hai ye sirf arrays pr chalta hai  
 # Function
 agar koi kaam baar baar krna padh rha hai toh ham usko function ke ander likh skte hain.
 
@@ -256,7 +256,7 @@ let a = val => {
 ```
 ##### Fat arrow function with an implicit return
 - implicit return that means jb ham ko sirf ek hi chiz return krna ho tho ham log `{}` ka use nahi v kr skte hai yasa nahi hai ki use kr nahi sakte hai kr skte hain aapka mn .
-- Return kya hota hai ye iske baad hai q ki bina function padhe return ko padhna posspossible nahi hai [﻿Return](https://app.eraser.io/workspace/MsoStjXZRR150HB8zbYx#1U89XJOohAK0vIAN8XgyS) 
+- Return kya hota hai ye iske baad hai q ki bina function padhe return ko padhna posspossible nahi hai [﻿Return](https://github.com/dev-aditya-lab/javascript-hinglish?tab=readme-ov-file#return) 
 
 ```
 let a = () => 12+13
