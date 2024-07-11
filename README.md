@@ -19,22 +19,22 @@ Yeh documentation un developers ke liye hai jo JavaScript ka use karte hain. Hum
 - [x] Loop with array
 - [x] Objects
 ### Advance 
-- [x] this call apply bind
+- [x] This call apply bind
 - [x] prototypal inheritance
 - [x] Closures
 - [ ] event delegation
 - [x] Higher order functions
 - [ ] Error Handling (try... catch block)
-- [ ] custom Event
-- [ ] synchronous and asynchronous js 
+- [ ] Custom Event
+- [ ] Synchronous and asynchronous js 
 - [ ] Es6 Climax
 - [ ] Questions
 ### More things
-- [ ] switch case
+- [ ] Switch case
 - [ ] Ternary operator
-- [ ] do-while
-- [ ] for in
-- [ ] for of
+- [ ] Do-while
+- [ ] For in
+- [ ] For of
 ### interview prep
 - [ ] Prototypes
 - [ ] prototypal inheritance
